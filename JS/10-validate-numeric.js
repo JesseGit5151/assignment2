@@ -1,6 +1,7 @@
 //lab 6
 //The future value app
 
+
 let futureValue = 0, investment = 0, rate = 0, years = 0, i;
 
 
